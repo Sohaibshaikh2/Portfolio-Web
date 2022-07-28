@@ -320,6 +320,10 @@ span{
     font-size: 1.5rem;
 }
 
+.news-l{
+    display: flex;
+}
+
 .copy{
     display: flex;
     justify-content: center;
